@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leya Russell Photography]]></title>
+        <description><![CDATA[Leya Russell Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 00:01:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travel Images]]></title>
+            <description><![CDATA[<article><h1>Travel Images</h1><p>Life is a journey and I love to travel!! I have a passion for different cultures and places. Such a curiosity about our human race. I feel a true sense of awe experiencing how diverse environments, ideas, decisions and many, many more indistinguishable details can result in so many unique, beautiful ways of life. Photography allows me to tell these stories, a way to share this curious perspective.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50d5d9d2643f7b3cf4518f59594f0f24/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff9858803-6aad-4532-9e3e-3f365f1ca1b9.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1623fb5-a297-49f0-91fa-3296949db398.jpg</link>
+            <guid isPermaLink="false">e9ac6e4b-90c7-4f55-b182-9310644124fa</guid>
+            <pubDate>Fri, 01 Jul 2016 00:01:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
