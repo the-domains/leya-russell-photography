@@ -1,4 +1,3 @@
-layout_spectrum: 0.6805419847369194
 typography_spectrum: 0.9219229510053992
 color:
   brandStrength: 0.4188122272025794
@@ -11,5 +10,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.6805419847369194
+author:
+  name: Leya Russell
 name: Leya Russell Photography
 title: Photography with Heart
